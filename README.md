@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Yo, I'm Sparky
 
-<!--
-**sparkycake0/sparkycake0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 16 y/o dev from Serbia trying to turn ideas into real stuff (and sometimes breaking things in the process)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I do
+- 🌐 Build modern websites (Next.js, Tailwind, animations)
+- ⚡ Focus on performance + clean UI
+- 🧠 Learning how to build **real products**, not just tutorials
+
+---
+
+## 🛠 Tech Stack
+```txt
+Frontend:   Next.js / React / Tailwind CSS
+Backend:    Node.js / Supabase / Firebase
+Tools:      Git / Linux (Arch btw) / Neovim
